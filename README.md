@@ -8,7 +8,7 @@
 ## 💻 1. 유틸리티 앱
 
 ### 앱 이름
-우테코 UT(URL, TODO)
+woowa UT(URL, TODO)
 
 ### 배포 링크
 https://gemini.google.com/share/26843b75330c
@@ -29,7 +29,7 @@ https://gemini.google.com/share/26843b75330c
 ## 🎮 2. 게임
 
 ### 앱 이름
-AI와의 오목 대전
+Omok with AI
 
 ### 배포 링크
 https://gemini.google.com/share/996905adfa36
@@ -56,7 +56,7 @@ https://gemini.google.com/share/996905adfa36
 ## 📚 3. 학습 앱
 
 ### 앱 이름
-Spring 튜터
+Spring tutor
 
 ### 배포 링크
 https://gemini.google.com/share/d3ec1e8544b7
