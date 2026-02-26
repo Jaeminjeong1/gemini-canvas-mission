@@ -95,7 +95,7 @@ Gemini 기반의 'AI 개념 시각화 생성기'와 'AI 모의 면접관' 두 �
 LinkMind AI
 
 ### 페어
-@Seonwu-K (루디)
+[@Seonwu-K](https://github.com/Seonwu-K) (루디)
 
 ### 배포 링크
 https://gemini.google.com/share/c0d845456eea
